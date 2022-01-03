@@ -1,7 +1,5 @@
-# Problem
-# Write a program to print the greatest of 4 numbers entered by the user
+# WRITE A PROGRAM TO PRINT THE GREATEST OF 4 NUMBERS ENTERED BY THE USER
 
-# Solution
 # Using the input function to define the numbers provided by the user
 # THE VALUE IS DEFINED WITHIN STRINGS WHEN WE USE THE INPUT FUNCTION (We have to use the int() function to convert them into integers)
 a = int(input("Enter the first number\n")) 
